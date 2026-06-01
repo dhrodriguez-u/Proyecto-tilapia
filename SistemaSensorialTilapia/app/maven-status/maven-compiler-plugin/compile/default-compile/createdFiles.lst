@@ -1,0 +1,13 @@
+Proyect\infrastructure\repositories\MemoriaAnalisisRepositorio.class
+Proyect\adapters\ui\LoginView.class
+Proyect\usecases\ports\UsuarioRepositorio.class
+Proyect\infrastructure\repositories\MemoriaUsuarioRepositorio.class
+Proyect\entities\EvaluacionSensorial.class
+Proyect\adapters\ui\AnalisisView.class
+Proyect\usecases\services\RealizarAnalisisUseCase.class
+Proyect\adapters\ui\Main.class
+Proyect\usecases\ports\AnalisisRepositorio.class
+Proyect\adapters\ui\MainView.class
+Proyect\adapters\ui\RegistroView.class
+Proyect\adapters\ui\DashboardView.class
+Proyect\entities\Usuario.class

@@ -1,0 +1,3 @@
+aa;aa;13;Investigador
+ab;ab;12;Experto Evaluador
+aa;aa;12;Piscicultor
